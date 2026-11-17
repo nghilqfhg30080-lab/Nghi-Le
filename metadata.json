@@ -1,0 +1,6 @@
+{
+  "name": "Mô Phỏng Robot JetBot AI - CMU Lớp 10A",
+  "description": "Mô phỏng 3D tương tác cấu tạo, chức năng cảm biến LiDAR/Camera và điều khiển di chuyển robot JetBot AI (NVIDIA Jetson Nano) theo nhiệm vụ môn CMU 10A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
